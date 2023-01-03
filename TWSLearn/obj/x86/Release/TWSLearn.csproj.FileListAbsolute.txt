@@ -1,0 +1,17 @@
+C:\Users\dom\AppData\Local\Temporary Projects\TWSLearn\bin\Release\TWSLearn.exe
+C:\Users\dom\AppData\Local\Temporary Projects\TWSLearn\bin\Release\TWSLearn.pdb
+C:\Users\dom\AppData\Local\Temporary Projects\TWSLearn\bin\Release\Krs.Ats.IBNet.dll
+C:\Users\dom\AppData\Local\Temporary Projects\TWSLearn\bin\Release\Krs.Ats.IBNet.pdb
+C:\Users\dom\AppData\Local\Temporary Projects\TWSLearn\bin\Release\Krs.Ats.IBNet.xml
+C:\Users\dom\AppData\Local\Temporary Projects\TWSLearn\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\dom\AppData\Local\Temporary Projects\TWSLearn\obj\x86\Release\TWSLearn.exe
+C:\Users\dom\AppData\Local\Temporary Projects\TWSLearn\obj\x86\Release\TWSLearn.pdb
+C:\Users\dom\documents\visual studio 2010\Projects\TWSLearn\TWSLearn\obj\x86\Release\TWSLearn.exe
+C:\Users\dom\documents\visual studio 2010\Projects\TWSLearn\TWSLearn\obj\x86\Release\TWSLearn.pdb
+C:\Users\dom\Documents\Visual Studio 2010\Projects\TWSLearn\TWSLearn\bin\Release\TWSLearn.exe.config
+C:\Users\dom\Documents\Visual Studio 2010\Projects\TWSLearn\TWSLearn\bin\Release\TWSLearn.exe
+C:\Users\dom\Documents\Visual Studio 2010\Projects\TWSLearn\TWSLearn\bin\Release\TWSLearn.pdb
+C:\Users\dom\Documents\Visual Studio 2010\Projects\TWSLearn\TWSLearn\bin\Release\Krs.Ats.IBNet.dll
+C:\Users\dom\Documents\Visual Studio 2010\Projects\TWSLearn\TWSLearn\bin\Release\Krs.Ats.IBNet.pdb
+C:\Users\dom\Documents\Visual Studio 2010\Projects\TWSLearn\TWSLearn\bin\Release\Krs.Ats.IBNet.xml
+C:\Users\dom\Documents\Visual Studio 2010\Projects\TWSLearn\TWSLearn\obj\x86\Release\ResolveAssemblyReference.cache

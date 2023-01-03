@@ -1,0 +1,13 @@
+C:\Users\dom\documents\visual studio 2010\Projects\TWSLearn\TWSLearn\bin\Debug\TWSLearn.exe
+C:\Users\dom\documents\visual studio 2010\Projects\TWSLearn\TWSLearn\bin\Debug\TWSLearn.pdb
+C:\Users\dom\documents\visual studio 2010\Projects\TWSLearn\TWSLearn\bin\Debug\Krs.Ats.IBNet.dll
+C:\Users\dom\documents\visual studio 2010\Projects\TWSLearn\TWSLearn\bin\Debug\Krs.Ats.IBNet.pdb
+C:\Users\dom\documents\visual studio 2010\Projects\TWSLearn\TWSLearn\bin\Debug\Krs.Ats.IBNet.xml
+C:\Users\dom\documents\visual studio 2010\Projects\TWSLearn\TWSLearn\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dom\documents\visual studio 2010\Projects\TWSLearn\TWSLearn\obj\x86\Debug\TWSLearn.exe
+C:\Users\dom\documents\visual studio 2010\Projects\TWSLearn\TWSLearn\obj\x86\Debug\TWSLearn.pdb
+C:\Users\dom\Documents\Visual Studio 2010\Projects\TWSLearn\TWSLearn\bin\Debug\TWSLearn.exe.config
+C:\ProgramData\TradingTools\TWSLearn\bin\Debug\TWSLearn.exe.config
+C:\ProgramData\TradingTools\TWSLearn\obj\x86\Debug\TWSLearn.exe
+C:\ProgramData\TradingTools\TWSLearn\obj\x86\Debug\TWSLearn.pdb
+C:\ProgramData\TradingTools\TWSLearn\obj\x86\Debug\TWSLearn.csprojResolveAssemblyReference.cache
